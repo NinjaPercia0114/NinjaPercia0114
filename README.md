@@ -1,67 +1,91 @@
-<h1 align="center">Hi 👋, I'm Harsh Shah</h1>
-<h3 align="center">AI-ML Enthusiast | Full-Stack Developer | Tech Explorer 🚀</h3
+# ⚡ Harsh Shah | Developer & AI Enthusiast⚡
+_"Code is like solving a puzzle. Every line should fit perfectly."_
 
 ---
 
-## 🚀 About Me
-- 🎓 Pursuing **B.Tech in AI & ML (CHARUSAT, 2027)** | Diploma in AI & ML (8.7 GPA)  
-- 🔭 Currently working on **AI + Web Development Projects**  
-- 🌱 Learning **FastAPI, Cloud Deployment & Advanced ML**  
-- 👯 Open to collaborating on **AI-powered apps, automation tools, and open-source**  
-- 📫 How to reach me: **[harsh03030@gmail.com](mailto:harsh03030@gmail.com)**  
-- ⚡ Fun fact: I talk to my code more than to people 😅  
+## 🩸 About Me
+
+🎯 **Mission:** Build, learn, and create tech that makes an impact—driven by curiosity and a passion for innovation.  
+🧠 **Learning:** AI/ML, RAG, Robotics, Full-Stack Apps, LangChain, Hugging Face  
+💻 **Focus Areas:** Intelligent Systems • Automation • Data Analytics • AI-powered Web Apps  
+🩸 **Passion:** Blending creativity and technology to solve real-world problems!
 
 ---
 
-## 🛠 Languages and Tools
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+## 🛡️ Tech Arsenal
+
+**Languages & Frameworks:**  
+PHP, Python, Java, SQL, JavaScript, HTML/CSS, React.js, FastAPI, Laravel (learning)
+
+**AI/ML:**  
+YOLO, RAG, LangChain, Hugging Face, Pandas, NumPy
+
+**Tools:**  
+Git, Docker, GitHub Actions, Streamlit, Power BI
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=NinjaPercia0114&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NinjaPercia0114&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaPercia0114&theme=radical&layout=compact)
+## 🗡️ Experience
+
+**AI Software Developer Intern – ABsix Robotics (IIT Gandhinagar)**  
+_May 2025 – Jul 2025_  
+- 🧠 Integrated Python AI chatbot (Hybrid RAG: LangChain + Hugging Face)
+- 🚀 Built web-based live code editor for robot control & rapid testing
+- ⚡ Streamlined AI-agent workflows for better usability & efficiency
+
+**Web Developer – OM Traders**  
+_Oct 2023 – Dec 2023_  
+- 🛒 Built a responsive e-commerce platform (React.js + Node.js/Express)
+- 🔐 Developed secure RESTful APIs (auth, products, cart, orders) with SQL backend
+- 🐳 Automated CI/CD with Docker & GitHub Actions (deploy time -50%)
+
+**Data Analyst Intern – Edunet Foundation (IBM SkillsBuild)**  
+_Jun 2023 – Jul 2023_  
+- 📊 Data cleaning & visualization with Power BI & Python
+- 💡 Produced actionable insights during IBM Emerging Tech program
 
 ---
 
-## 🏆 Notable Projects
-- 🏥 **Meditech** — Smart Hospital Management (React + Firebase)  
-- 🚦 **Automatic E-Memo Generator** — YOLO-based traffic violation system (92% accuracy)  
-- 🤖 **Robocon 2025** — AI-driven Basketball Robot (YOLOv8 + OpenCV)  
+## 🏆 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🚦 **Automatic E-Memo Generator** | YOLO-based traffic violation detection (92% accuracy); auto-generates memos for faster processing |
+| 🏥 **Meditech – Smart Hospital Management System** | Full-stack React.js + Firebase; automates hospital workflows, improves data accessibility |
+| 🦾 **AI Chatbot & Live Code Editor** | Python chatbot (LangChain + Hugging Face) & web robot control for ABsix Robotics |
+| 📚 **Data Analytics Dashboard** | Power BI + Python for visualization and insights (IBM SkillsBuild) |
+| 🛒 **E-Commerce Platform** | React.js + Node.js/Express, secure APIs, CI/CD automation |
+| 🔬 **Other Projects** | RAG-powered apps, FastAPI microservices, Streamlit dashboards |
 
 ---
 
-## 📬 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/harsh-shah-6a1a71246/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Harsh Shah" height="30" width="40" />
-  </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=harsh03030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>&nbsp;
+## 🎓 Education
 
-  <a href="https://github.com/NinjaPercia0114" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - NinjaPercia0114" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/HarshShah_AI" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - HarshShah_AI" height="30" width="40" />
-  </a>
-</p>
+- **B.Tech, Artificial Intelligence & Machine Learning**  
+  CHARUSAT University (2024–2027)
+- **Diploma, Artificial Intelligence & Machine Learning**  
+  L.J. Polytechnic, Ahmedabad (2021–2024)
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NinjaPercia0114&label=Profile%20views&color=0e75b6&style=flat" alt="NinjaPercia0114" />
-</p>
+## 🥇 Certifications & Achievements
+
+- Python for Data Science, AI & Development (IBM)
+- Backend Development & API Creation
+- 🚀 Reduced deploy time by 50% with Docker + GitHub Actions
+- 🏆 SIH 2024 Finalist: Meditech ranked Top 9 for healthcare innovation
+
+---
+
+## ⚔️ Let's Connect!
+
+📧 **Email:** harsh03030@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/harsh-shah-6a1a71246/)  
+[Leetcode](https://leetcode.com/u/harsh03030/)
+<!-- [LeetCode]() | [Portfolio]() | Add your links here -->
+
+💬 _"Victory belongs to those who keep building and never stop learning."_
+
+---
+
+<!-- GitHub Stats section can be added if you want! -->
